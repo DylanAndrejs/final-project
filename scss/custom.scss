@@ -1,8 +1,34 @@
 // Custom.scss
 // Option A: Include all of Bootstrap
 
+ @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Libre+Baskerville:wght@400;700&family=Source+Sans+3&display=swap');
+
+
+
+
+
+
+
+
+
+
 // Include any default variable overrides here (though functions won't be available)
+
+
+$primary:#e03843;
+$secondary: #979797;
+$success: #149911;
+$info:#6EF9F5; 
+$warning: #DEC020;
+$danger: #e03843;
+$light:#979797;
+$dark: #505D68;
+
+
 
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
+
+
+
